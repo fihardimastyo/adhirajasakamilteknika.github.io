@@ -1,0 +1,21 @@
+.body {
+  min-height: 3000px;
+}
+#prod {
+  background-color: #ffff;
+}
+section {
+  padding-top: 5rem;
+}
+#visi {
+  background-color: #e2edff;
+}
+#jasa {
+  background-color: #e2edff;
+}
+#kontak {
+  background-color: #ffff;
+}
+#klien {
+  background-color: #e2edff;
+}
